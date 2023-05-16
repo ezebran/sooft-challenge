@@ -1,0 +1,18 @@
+[
+    {
+      "id_cuestionario": 1,
+      "descripcion_cuestionario": "Cuestionario de viviendas"
+    },
+    {
+      "id_cuestionario": 2,
+      "descripcion_cuestionario": "Cuestionario de automotriz"
+    },
+    {
+      "id_cuestionario": 3,
+      "descripcion_cuestionario": "Cuestionario de tramites"
+    },
+    {
+      "id_cuestionario": 4,
+      "descripcion_cuestionario": "Cuestionario de salud"
+    }
+]
